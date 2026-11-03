@@ -1,2 +1,1 @@
-# Werg-r-
-translate
+python3 install.py
